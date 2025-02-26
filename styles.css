@@ -1,0 +1,28 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+/* Espaciado entre secciones */
+section {
+    padding: 20px 0;
+}
+
+/* Estilos para los títulos */
+h2 {
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #24969e;
+}
+
+/* Estilos para el footer */
+footer {
+    background-color: #343a40;
+    color: white;
+    padding: 20px 0;
+}
